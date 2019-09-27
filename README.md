@@ -1,2 +1,4 @@
-# the _pantry
-Github Checkpoint Assignment
+
+#the_pantry_clone
+GitHub Checkpoint Assignment
+
